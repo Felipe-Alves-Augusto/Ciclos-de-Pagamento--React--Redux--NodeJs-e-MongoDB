@@ -1,0 +1,17 @@
+.nav-tabs li {
+    cursor: pointer;
+}
+
+.btn-cancel {
+    margin-left: 5px;
+}
+
+.btn-edit {
+    margin-right: 5px;
+}
+
+.flex-buttons {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
